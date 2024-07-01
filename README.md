@@ -5,3 +5,6 @@ asm, c, c++, rust, helix
 - [ ] opengl project
 - [ ] make freestanding programs with c and asm
 - [ ] learn gpu acceleration
+
+#### contact me
+not rn
