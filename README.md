@@ -1,5 +1,5 @@
 ## i use
-asm, c, c++, rust, helix, clang, ubuntu, windows 10 enterprise n
+asm, c, c++, rust, helix, ghidra, visual studio, clang, ubuntu, windows 10 enterprise n
 
 ## goals
 - [ ] opengl project
