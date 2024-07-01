@@ -7,4 +7,4 @@ asm, c, c++, rust, helix
 - [ ] learn gpu acceleration
 
 ## contact me
-t.me/fu3x1
+https://t.me/fu3x1
