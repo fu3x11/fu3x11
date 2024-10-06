@@ -1,7 +1,7 @@
-## i use
-asm, c, c++, rust, helix, ghidra, visual studio, clang, ubuntu, windows 10 enterprise n.
+## about
+toolset - asm, c, c++, rust, helix, ghidra, visual studio, clang, ubuntu, windows 10 enterprise n
 
-honorable mention: redstar os
+most of my *good* projects are private. ill probably work on my game slowly but surly
 
 ## learning
 zig
